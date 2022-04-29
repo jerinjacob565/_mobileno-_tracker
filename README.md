@@ -1,2 +1,2 @@
 
-Thisscript is  for finding information about a phone number
+This script is  for finding information about a phone number
