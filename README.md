@@ -3,13 +3,14 @@ _This script is  for finding information about a phone number_
 
 <h2>installation</h2>
 
-git clone https://github.com/jerinja/_mobileno-_tracker.git
+         git clone https://github.com/jerinja/_mobileno-_tracker.git
+<p>
 
+        cd _mobileno-_tracker
+  <p>
 
-cd _mobileno-_tracker
+        ls
+<p>
 
-ls
-
-
-bash tracker.sh
+        bash tracker.sh
 
