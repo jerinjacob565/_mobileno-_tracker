@@ -12,7 +12,7 @@
 
    read api key
 
-   echo "enter your target mobile number with country code"
+   echo "Enter your target mobile number with country code"
 
    read mobile number
 
